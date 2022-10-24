@@ -2,6 +2,8 @@
 
 ## [Patika.dev](https://www.patika.dev/tr)
 
+---
+
 <br>
 
 > Create Database Commands
